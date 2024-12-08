@@ -1,0 +1,16 @@
+SMAP
+dashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 dashboard.jsp
+dashboard.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,101:50
+102,43:152
+144,6:195
+1#1,13:200
+149#0,5:212
+*E

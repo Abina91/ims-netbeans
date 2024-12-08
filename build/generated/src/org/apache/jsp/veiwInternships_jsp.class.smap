@@ -1,0 +1,20 @@
+SMAP
+veiwInternships_jsp.java
+JSP
+*S JSP
+*F
++ 0 veiwInternships.jsp
+veiwInternships.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+5,37:52
+42,22:90
+63,2:112
+65,5:114,3
+70,2:129
+72,10:132
+81,5:142
+5#1,9:147
+85#0,3:155
+*E
